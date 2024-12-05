@@ -1,0 +1,390 @@
+* body {
+    background-color: rgba(169, 169, 169, 0.507);
+}
+
+/*------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/*Index Principal*/
+
+.cdivgeneral{
+    display:  flex;
+}
+
+.cdivgeneralright{
+    padding: 2px;
+    display: flex;
+    flex-direction: column;
+    background-color: #1D654A;
+    width: 626px;
+    height: 940px;
+    border-radius: 5%;
+}
+
+.cfoto  {
+    padding: 2%;
+    width: 600px;
+    height: 450px;
+    border-radius: 5%;
+}
+
+.cname {
+    margin-top: -30px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    font-family: Malgun Gothic;
+    color: white;
+    font-size: 40px;
+}
+
+.cnamesub {
+    margin-top: -50px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    width: 600px;
+    font-family: Malgun Gothic;
+    color: white;
+    font-size: 25px;
+}
+
+.cdatasourcesimagenes {
+    margin: 20px;
+    background-color: antiquewhite;
+    border-radius: 15px;
+}
+
+.cdatasourcesimagenes li {
+    font-family: Malgun Gothic;
+}
+
+
+/*..........................................................................................................................................*/
+
+.cdivgeneralleft{
+    display: flex;
+    flex-direction: column;
+    width: 1269px;
+    height: 50px;
+}
+
+.cmenu a{
+    padding: 61px;
+    font-family: Malgun Gothic;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    height: 1px;
+    display: flexbox;
+    justify-content: space-between;
+}
+
+.cnameacercademi h1 {
+    margin-left: 150px;
+    background-color: #1D654A;
+    font-family: Malgun Gothic;
+    color: white;
+    font-size: 30px;
+    width: 1000px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.cdescripcion p {
+    margin: 1px;
+    padding: 13px;
+    font-family: Malgun Gothic;
+    color: rgb(0, 0, 0);
+    font-size: 22px;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/*Menu General*/
+
+.cgeneralmenuss {
+    display: flex;
+    flex-direction: column;
+}
+
+.cmenutmp {
+    background-color: #1D654A;
+    padding: 10px;
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cmenutmp a {
+    font-family: Malgun Gothic;
+    color: white;
+    font-size: 20px;
+    display: flexbox;
+    justify-content: space-between;
+}
+
+.ctitlegeneral h1 {
+    margin-left: 150px;
+    background-color: #1D654A;
+    font-family: Malgun Gothic;
+    color: white;
+    font-size: 30px;
+    width: 1600px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/*Experiencia*/
+
+.containergeneral {
+    background-color: #9bb3a798;
+    margin: 10px;
+    width: 1870px;
+    height: 240px;
+    border-radius: 10px;
+}
+
+.containersub1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.imagenesinternas {
+    display: flex;
+    justify-content: center;
+}
+
+.containersub1 img {
+    margin: 10px;
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+}
+
+.containersub1 h1 {
+    color: black;
+    font-family: Malgun Gothic;
+    font-size: 15px;
+    text-align: center;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/*Recomendaciones*/
+
+.generalgaleriarecomendaciones {
+    margin: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 1650px;}
+
+.containerprincipal div{
+    padding: 15px;}
+
+.containersecundario div{
+    padding: 15px;}
+
+.generalgaleriarecomendaciones img {
+    width: 500px;
+    border-radius: 20px;}
+
+.cdivgeneralimagenesr {
+    width: 200px;
+    transition: all 0.3s ease;}
+
+.cdivgeneralimagenesr:hover {
+    transform: scale(1.1);}
+
+.cdivgeneralimagenesr2 {
+    width: 200px;
+    transition: all 0.3s ease;}
+
+.cdivgeneralimagenesr2:hover {
+    transform: scale(1.1);}
+        
+.cdivgeneralimagenesr3 {
+    width: 200px;
+    transition: all 0.3s ease;}
+    
+.cdivgeneralimagenesr3:hover {
+    transform: scale(1.1);}
+    
+.cdivgeneralimagenesr4 {
+    width: 200px;
+    transition: all 0.3s ease;}
+    
+.cdivgeneralimagenesr4:hover {
+    transform: scale(1.1);}
+
+.cdivgeneralimagenesr5 {
+    width: 200px;
+    transition: all 0.3s ease;}
+    
+.cdivgeneralimagenesr5:hover {
+    transform: scale(1.1);}
+    
+.cdivgeneralimagenesr6 {
+    width: 200px;
+    transition: all 0.3s ease;}
+    
+.cdivgeneralimagenesr6:hover {
+    transform: scale(1.1);}
+            
+.cdivgeneralimagenesr7 {
+    width: 200px;
+    transition: all 0.3s ease;}
+        
+.cdivgeneralimagenesr7:hover {
+    transform: scale(1.1);}
+        
+.cdivgeneralimagenesr8 {
+    width: 200px;
+    transition: all 0.3s ease;}
+        
+.cdivgeneralimagenesr8:hover {
+    transform: scale(1.1);}
+
+.cdivgeneralimagenesr9 {
+    width: 200px;
+    transition: all 0.3s ease;}
+            
+.cdivgeneralimagenesr9:hover {
+    transform: scale(1.1);}
+            
+.cdivgeneralimagenesr10 {
+    width: 200px;
+    transition: all 0.3s ease;}
+            
+.cdivgeneralimagenesr10:hover {
+    transform: scale(1.1);}
+
+
+.cdivgeneralimagenesr11 img{
+    width: 350px;}
+
+.cdivgeneralimagenesr11 {
+    width: 200px;
+    transition: all 0.3s ease;}
+                
+.cdivgeneralimagenesr11:hover {
+    transform: scale(1.1);}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/*Proyectos*/
+
+.cgeneraldivimg{
+    display: flex;
+    justify-content: flex-start;
+    justify-content: center;
+}
+
+.cgeneraldivimg img {
+    margin: 16px;
+    width: 1000px;
+    height: 700px;
+    border-radius: 10px;
+}
+
+.cformulario {
+    background: white;
+    margin: 10px;
+    display: flex;
+    border-radius: 5px;
+    width: 350px;
+}
+
+.cdivinput{
+    padding: 2rem;
+}
+
+.cdivinput h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+}
+
+.cdivinput input {
+    background-color: rgb(146, 135, 135);
+    width: 248px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+.cdivinput textarea {
+    background-color: rgb(146, 135, 135);
+    width: 248px;
+    height: 20px;
+    border-radius: 5px;
+}
+
+.cdivinput select {
+    background-color: rgb(146, 135, 135);
+    width: 260px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+.cbotonesform {
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+}
+
+.cbotonesform button{
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button:hover {
+    background-color: #45a051;
+}
+
+/*-------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+/*Conocimientos*/
+.divgeneralconocimientos {
+    display: flex;
+    justify-content: space-around;
+    gap: 2rem;
+}
+
+.divgeneralconocimientos h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.divconocimientosone {
+    background-color: #1d654b73;
+    border-radius: 15px;
+   
+}
+
+.divconocimientosone li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+.divconocimientostwo {
+    background-color: #1d654b73;
+    border-radius: 15px;
+}
+
+
+.divconocimientostwo li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
+
+.divconocimientosthree {
+    background-color: #1d654b73;
+    border-radius: 15px;
+}
+
+
+.divconocimientosthree li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
